@@ -9,9 +9,10 @@
       <template v-slot:default>
         <div class="content">
           <h3>Fake Heading</h3>
+          
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              OMG it is so hipster I can't take it!
             </strong>
           </p>
           <p>
