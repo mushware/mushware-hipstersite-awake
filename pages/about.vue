@@ -9,10 +9,9 @@
       <template v-slot:default>
         <div class="content">
           <h3>Fake Heading</h3>
-          
           <p>
             <strong>
-              OMG it is so hipster I can't take it!
+              OMG it is so so SO SOOOOO hipster I can't take it!
             </strong>
           </p>
           <p>
